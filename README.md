@@ -9,6 +9,6 @@ Nodejs ve React ile gelistirilen QR Code olusturma sitesi. Onceki projem URL Sho
 Frontend/Backend by AhmetDono
 
  ## Ekran Görüntüleri
-![ScreenShot]((https://i.imgur.com/alYiMbn.png))
+![ScreenShot](https://i.imgur.com/alYiMbn.png)
 
 
