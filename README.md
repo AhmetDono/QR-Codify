@@ -9,6 +9,6 @@ Nodejs ve React ile gelistirilen QR Code olusturma sitesi. Onceki projem URL Sho
 Frontend/Backend by AhmetDono
 
  ## Ekran Görüntüleri
-![ScreenShot](https://i.imgur.com/alYiMbn.png)
+<img width="916" alt="Screenshot 2023-11-29 104742" src="https://github.com/AhmetDono/QR-Codify/assets/94890232/a873f834-a5e9-46b8-acdd-36ee53d2d8c0">
 
 
